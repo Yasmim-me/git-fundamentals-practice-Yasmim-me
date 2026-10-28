@@ -26,3 +26,4 @@ updates into the main branch
 Answer: The git status command helped me understand the state of my repository by 
 showing me that I was on the main branch with a completely clean working tree
 and no uncommitted changes
+
